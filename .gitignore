@@ -31,3 +31,6 @@ Thumbs.db
 # File lingkungan & kunci rahasia (Keamanan)
 .env
 *.log
+
+# Data transaksi lokal
+keuangan_magang.json
