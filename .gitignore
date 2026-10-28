@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files (Cache Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & temporary files
+*.so
+.cache
+
+# Virtual Environment (jika menggunakan environment terpisah)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files (Windows & macOS)
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# File lingkungan & kunci rahasia (Keamanan)
+.env
+*.log
